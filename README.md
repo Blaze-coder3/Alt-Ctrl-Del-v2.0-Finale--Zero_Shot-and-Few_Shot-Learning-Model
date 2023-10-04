@@ -120,4 +120,4 @@ result_image = draw_boxes(image_path, outputs)
 cv2_imshow(result_image)
 ```
 
-That's it! You've successfully set up a real-time object detection system using YOLOv5 in Python. You can further customize and enhance this code for your specific use case or project requirements.
+That's it! You've successfully set up a Few Shot Learning Real-time Object Detection with YOLOv5 in Python. You can further customize and enhance this code for your specific use case or project requirements.
